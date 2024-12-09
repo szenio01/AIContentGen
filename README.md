@@ -41,10 +41,10 @@ Cinematic film still of
 Long time ago in ancient Egypt, picture of a pharaoh in Egyptian standing in front of the pyramids, desert, Ancient style, historical style, movie-themed, sharp, detailed, epic cinematic photography, artistic style, creative style, dramatic cinematic light, cinematic color style, Kodak motion picture film style, cinematography style, Egyptian mythology style, shallow depth of field, vignette, highly detailed, high budget, bokeh, cinemascope, moody, epic, gorgeous, film grain, grainy
 ```
 
-###3 Video Generation
+### 3 Video Generation
 - **AI Approach:** Kling AI
 - **Description:** Text prompts along with the images generated beforehand were used for the videos.
 
-###4 Music Generation
+### 4 Music Generation
 - **AI Approach:** Stable Audio
 - **Description:** Text prompts were used in Stable Audio to generate background music fitting the mood of the trailer.
