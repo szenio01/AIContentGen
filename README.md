@@ -38,7 +38,7 @@ Cinematic film still of
 <lora:Chiaroscuro Lighting Style:0.3> Chiaroscuro Lighting Style 
 <lora:Egyptian mythology style:0.5> 
 <lora:ancient egyptian style:0.8> 
-Long time ago in ancient Egypt, picture of a pharaoh in Egyptian standing in front of the pyramids, desert, Ancient style, historical style, movie-themed, sharp, detailed, epic cinematic photography, artistic style, creative style, dramatic cinematic light, cinematic color style, Kodak motion picture film style, cinematography style, Egyptian mythology style, shallow depth of field, vignette, highly detailed, high budget, bokeh, cinemascope, moody, epic, gorgeous, film grain, grainy
+Long time ago in ancient Egypt, picture of a pharaoh in Egyptian standing in front of the pyramids, desert, Ancient style, historical style, movie-themed, sharp, detailed, epic cinematic photography, artistic style, creative style, dramatic cinematic light, cinematic color style, Kodak motion picture film style, cinematography style, Egyptian mythology style, shallow depth of field, vignette, highly detailed, high budget, bokeh, cinemascope, moody, epic, gorgeous, film grain, grainy ```
 
 ###3 Video Generation
 - **AI Approach:** Kling AI
